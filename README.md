@@ -14,7 +14,6 @@ I spent 3½ years in the U.S. Army, then worked as an **Intelligence Analyst** i
 | | |
 |---|---|
 | 🎯 **Target roles** | SOC Analyst · Cybersecurity Consultant · Network Analyst · Incident Response · Threat Intelligence · GRC / Cyber Risk · Security Engineer |
-| 🛡️ **Clearance** | Recently held U.S. security clearance (military intelligence) |
 | 📜 **Certifications** | CompTIA Security+ · [Google Cybersecurity Professional Certificate](https://coursera.org/verify/professional-cert/PCV2UJ6JGPXZ) (verified) · DHS Level 1 |
 | 🎓 **Education** | B.S. Cybersecurity & Global Policy, Indiana University Bloomington (May 2025) |
 | 🇺🇸 **Veteran** | U.S. Army 2020–2023 · Indiana National Guard 2023–2024 |
